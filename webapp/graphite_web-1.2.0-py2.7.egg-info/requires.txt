@@ -1,0 +1,8 @@
+Django<2.1,>=1.8
+django-tagging==0.4.3
+pytz
+pyparsing
+cairocffi
+urllib3
+scandir
+six
